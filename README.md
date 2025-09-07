@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌌 Zenyra – The Future of E-Commerce
 
-## Getting Started
+![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)  
+*Licensed under the GNU Affero General Public License v3.0*
 
-First, run the development server:
+Welcome to **Zenyra**, the next-generation e-commerce platform set to **redefine global online shopping**.  
+Inspired by innovation, speed, and cosmic abundance, Zenyra is built to scale beyond boundaries and **outshine today’s biggest marketplaces**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ What is Zenyra?
+Zenyra is not just another e-commerce platform — it’s a **vision of limitless commerce**:  
+- 🌍 **Global Reach** – One platform, infinite markets.  
+- ⚡ **Seamless Experience** – Ultra-fast browsing and checkout.  
+- 🔐 **Trust & Security** – Built on robust technologies ensuring safe transactions.  
+- 🤖 **AI-Driven Personalization** – Smarter recommendations, tailored for every user.  
+- ♾️ **Scalable Infrastructure** – Designed to grow 10x faster than traditional marketplaces.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Vision
+At Zenyra, we believe **shopping should feel magical**.  
+Our mission is to connect people to products with **clarity, speed, and trust** — creating an ecosystem where buyers and sellers thrive together.  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🔮 Why the Name *Zenyra*?
+The name **Zenyra** comes from:  
+- *Zen* → balance, clarity, peace.  
+- *Yra* → inspired by cosmic energy, abundance, and growth.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Together, they represent a brand that’s **futuristic, universal, and destined to rule global commerce**.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠️ Tech Stack (Proposed)
+- **Frontend** → Next.js + TypeScript + TailwindCSS  
+- **Backend** → Node.js + Prisma + PostgreSQL / Supabase  
+- **Payments** → Stripe Integration  
+- **Infrastructure** → Docker + Vercel/Render + AWS  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📈 Roadmap
+1. ✅ Concept & Brand Creation (Done)  
+2. 🚀 MVP Launch – Modern storefront with global payments  
+3. 🌐 AI-Powered Product Recommendations  
+4. 📦 Seller Portal + Marketplace Expansion  
+5. 🔗 Web3 & Global Logistics Integrations  
+
+---
+
+## 📜 License
+This project is licensed under the **GNU AGPLv3** license.  
+
+By using, modifying, or deploying this software, you agree to:  
+- Keep it **open-source** under the same license.  
+- Share modifications if used as a hosted service (SaaS).  
+- Respect the original authorship of the Zenyra project.  
+
+🔗 [Learn more about AGPL v3](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+---
+
+## 🌠 Join the Journey
+Zenyra is more than a platform. It’s a **movement t**
